@@ -1,0 +1,21 @@
+:root{
+    ---text-color: white;
+    ---background-color:rgb(65, 161, 255);
+}
+#header{
+    height: 100px;
+    background-color: aqua;
+}
+.join-tg-tw-head a:last-child{
+    width: 100px;
+    border-radius: 50px;
+    line-height: 50px;
+    color: var(---text-color);
+    background: var(---background-color);
+}
+.menu-list li{
+    list-style-type: none;
+}
+.menu-list li a{
+    
+}
